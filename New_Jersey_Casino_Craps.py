@@ -1,4 +1,3 @@
-# nj_craps_full_v4.py
 # Full New Jersey Compliant Craps — Buy, Lay, Odds, Place, Fire Bet, CSV Export
 # No external dependencies except standard library + Tkinter
 
