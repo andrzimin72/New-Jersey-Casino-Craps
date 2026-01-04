@@ -17,9 +17,10 @@ The theoretical RTP of a properly implemented Craps game depends entirely on the
 
 I think this game’s effective RTP ranges from ~75% (Fire Bet only) to >99% (Pass + max Odds) - which is excellent and authentic to real-world New Jersey craps.
 
-How to Run: python3 New_Jersey_Casino_Craps.py
+# How to Run
+ python3 New_Jersey_Casino_Craps.py
 
-Output Files:
+# Output Files
 - craps_audit.log - real-time regulatory-compliant log;
 - craps_audit.csv - exported on demand.
 
