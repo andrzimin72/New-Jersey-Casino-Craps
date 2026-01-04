@@ -24,5 +24,7 @@ I think this game’s effective RTP ranges from ~75% (Fire Bet only) to >99% (Pa
 - craps_audit.log - real-time regulatory-compliant log;
 - craps_audit.csv - exported on demand.
 
+Additionally, I decided to add a mobile version of this game (New_Jersey_Casino_Craps_KivyApp.py). This is the complete, integrated script for Kivy-based App.
+
 This game is fully compliant with the New Jersey Casino regulations. I suppose it’s quite possible to exploit this program as methodical guide for studying of some disciplines «Probability Theory», «Game Theory», «Analytic Combinatorics», «Analysis Algorithms» and «Risk Management». May be this script will help to master the game from scratch in a week and make the learning process fun and exciting. Though we shouldn’t forget the game of real Craps is associated with financial risks, as the result depends on a random event - the number on which the player has bet.
 
